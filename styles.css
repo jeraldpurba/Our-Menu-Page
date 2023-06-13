@@ -1,5 +1,5 @@
 /*logo-sang pisang1*/
-.logo_sang_pisang{
+#logo_sang_pisang{
   position: absolute;
   width: 92px;
   height: 53px;
@@ -8,7 +8,7 @@
 }
 
 /*logo instagram*/
-.instagram{
+#instagram{
   position: absolute;
   left: 10.94%;
   right: 10.94%;
