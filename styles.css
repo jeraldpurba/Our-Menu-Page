@@ -60,7 +60,6 @@ tr_menu{
   left: 37.64%;
   right: 58.19%;
   top:3%;
-  bottom:;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -86,4 +85,23 @@ tr_about_us{
   line-height: 27px;
 
   text-align: center
+}
+
+/*Our Store*/
+tr_our_store{
+  position: absolute;
+  left: 55.76%;
+  right: 37.36%;
+  top: 3%;
+  bottom: 26.15%;
+
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 27px;
+
+  text-align: center;
+
+  color: #000;
 }
