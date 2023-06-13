@@ -7,6 +7,15 @@
   top: 6px;
 }
 
+/*logo instagram*/
+#instagram{
+  position: absolute;
+  left: 10.94%;
+  right: 10.94%;
+  top: 10.94%;
+  bottom: 10.94%
+}
+
 /*menu*/
 tr_menu{
   position: absolute;
@@ -219,19 +228,85 @@ h2_sang_pisang{
 
 /* Contact Us */
 h4_contact_us{
-position: absolute;
-width: 92px;
-height: 22px;
-left: 106px;
-bottom: 50px;
+  position: absolute;
+  width: 92px;
+  height: 22px;
+  left: 106px;
+  bottom: 45px;
 
-font-family: 'Garamond';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 22px;
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
 
-color: #000000;
+  color: #000000;
 }
 
+/* FAQ */
+tr_faq{
+  position: absolute;
+  width: 137px;
+  height: 20px;
+  left: 106px;
+  bottom: 20px;
 
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+
+  color: #000000;
+}
+
+/* Help */
+tr_help{
+  position: absolute;
+  width: 51px;
+  height: 21px;
+  left: 167px;
+  bottom: 20px;
+
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+
+  color: #000000
+}
+
+/* Privacy Policy */
+tr_privacy_policy{
+  position: absolute;
+  width: 119px;
+  height: 21px;
+  left: 235px;
+  bottom: 20px;
+
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+
+  color: #000000;
+}
+
+/* Terms of Use */
+tr_tou{
+  position: absolute;
+  width: 137px;
+  height: 13px;
+  left: 370px;
+  bottom: 28px;
+
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+
+  color: #000000;
+}
