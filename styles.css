@@ -128,3 +128,22 @@ h1_our_menu{
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 /*All Menu*/
+h2_all_menu{
+  position: absolute;
+  width: 209.04px;
+  height: 38.95px;
+  left: 136px;
+  top: 318.95px;
+
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 150%;
+
+  text-align: center;
+  letter-spacing: 0.135em;
+
+color: #000000;
+
+}
