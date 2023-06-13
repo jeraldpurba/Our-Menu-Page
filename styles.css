@@ -86,7 +86,7 @@ h2_all_menu{
   width: 209.04px;
   height: 38.95px;
   left: 450px;
-  top: 300px;
+  top: 250px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -199,4 +199,39 @@ h3_ice_banana{
 
   color: #000000;
 }
+
+/* SANG PISANG */
+h2_sang_pisang{
+  position: absolute;
+  width: 258px;
+  height: 29px;
+  left: 106px;
+  bottom: 70px;
+
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 34px;
+
+  color: #000000
+}
+
+/* Contact Us */
+h4_contact_us{
+position: absolute;
+width: 92px;
+height: 22px;
+left: 106px;
+bottom: 50px;
+
+font-family: 'Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+
+color: #000000;
+}
+
 
