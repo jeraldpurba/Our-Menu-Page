@@ -10,12 +10,23 @@
 /*logo instagram*/
 #instagram{
   position: absolute;
-  left: 10.94%;
-  right: 10.94%;
-  top: 10.94%;
-  bottom: 10.94%
+  left: 14%;
+  bottom: 3.9%
 }
 
+/*logo whatsapp*/
+#whatsapp{
+  position: absolute;
+  left: 15%;
+  bottom: 3.9%
+}
+
+/*logo facebook*/
+#facebook{
+  position: absolute;
+  left: 17.3%;
+  bottom: 4.2%
+}
 /*menu*/
 #menu{
   position: absolute;
