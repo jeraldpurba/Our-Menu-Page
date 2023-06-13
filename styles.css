@@ -19,8 +19,6 @@
 /*menu*/
 #menu{
   position: absolute;
-  width: 60px;
-  height: 27px;
   left: 37.64%;
   right: 58.19%;
   top:0.5%;
@@ -33,7 +31,6 @@
 
   color: #000
 }
-
 
 /*About Us*/
 #about_us{
@@ -98,7 +95,7 @@
   width: 209.04px;
   height: 38.95px;
   left: 450px;
-  top: 250px;
+  top: 230px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -118,7 +115,7 @@ color: #000000;
   width: 209.04px;
   height: 38.95px;
   left: 136px;
-  top: 318.95px;
+  top: 300px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -138,7 +135,7 @@ color: #000000;
   width: 267px;
   height: 38px;
   left: 102px;
-  top: 376px;
+  top: 360px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -158,7 +155,7 @@ color: #000000;
   width: 209.04px;
   height: 38.95px;
   left: 136px;
-  top: 439.42px;
+  top: 420px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -178,7 +175,7 @@ color: #000000;
   width: 256px;
   height: 39px;
   left: 113px;
-  top: 505px;
+  top: 480px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -198,7 +195,7 @@ color: #000000;
   width: 209.04px;
   height: 38.95px;
   left: 138px;
-  top: 566.05px;
+  top: 540px;
 
   font-family: 'Garamond';
   font-style: normal;
