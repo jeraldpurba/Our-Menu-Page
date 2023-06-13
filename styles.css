@@ -16,6 +16,21 @@
   bottom: 10.94%
 }
 
+#menu{
+  position: absolute;
+  left: 37.64%;
+  right: 58.19%;
+  top:3%;
+
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 27px;
+
+  color: #000
+}
+
 /*menu*/
 tr_menu{
   position: absolute;
