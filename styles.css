@@ -149,42 +149,101 @@ color: #000000;
 
 /*All Menu*/
 h3_all_menu{
-position: absolute;
-width: 209.04px;
-height: 38.95px;
-left: 136px;
-top: 318.95px;
+  position: absolute;
+  width: 209.04px;
+  height: 38.95px;
+  left: 136px;
+  top: 318.95px;
 
-font-family: 'Garamond';
-font-style: normal;
-font-weight: 700;
-font-size: 25px;
-line-height: 150%;
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 150%;
 
+  text-align: center;
+  letter-spacing: 0.135em;
 
-text-align: center;
-letter-spacing: 0.135em;
-
-color: #000000;
+  color: #000000;
 }
 
 /* Banana Nugget */
 h3_banana_nugget{
-position: absolute;
-width: 267px;
-height: 38px;
-left: 102px;
-top: 376px;
+  position: absolute;
+  width: 267px;
+  height: 38px;
+  left: 102px;
+  top: 376px;
 
-font-family: 'Garamond';
-font-style: normal;
-font-weight: 700;
-font-size: 25px;
-line-height: 150%;
-/* identical to box height, or 38px */
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 150%;
 
-text-align: center;
-letter-spacing: 0.12em;
+  text-align: center;
+  letter-spacing: 0.12em;
 
-color: #000000;
+  color: #000000;
 }
+
+/*Banroll*/
+h3_banroll{
+  position: absolute;
+  width: 209.04px;
+  height: 38.95px;
+  left: 136px;
+  top: 439.42px;
+
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 150%;
+
+  text-align: center;
+  letter-spacing: 0.1em;
+
+  color: #000000;
+}
+
+/* Banana Tortilla */
+h3_banana_tortilla{
+  position: absolute;
+  width: 256px;
+  height: 39px;
+  left: 113px;
+  top: 505px;
+
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 150%;
+
+  text-align: center;
+  letter-spacing: 0.06em;
+
+  color: #000000;
+}
+
+/* Ice Banana */
+h3_ice_banana{
+  position: absolute;
+  width: 209.04px;
+  height: 38.95px;
+  left: 138px;
+  top: 566.05px;
+
+  font-family: 'Garamond';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 150%;
+
+  text-align: center;
+  letter-spacing: 0.09em;
+
+  color: #000000;
+}
+
