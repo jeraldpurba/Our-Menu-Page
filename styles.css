@@ -112,7 +112,7 @@ h1_our_menu{
   width: 516px;
   height: 71px;
   left: 179px;
-  top: 24px;
+  top: 100px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -132,18 +132,59 @@ h2_all_menu{
   position: absolute;
   width: 209.04px;
   height: 38.95px;
-  left: 136px;
-  top: 318.95px;
+  left: 450px;
+  top: 300px;
 
   font-family: 'Garamond';
   font-style: normal;
   font-weight: 700;
-  font-size: 25px;
+  font-size: 35px;
   line-height: 150%;
 
   text-align: center;
   letter-spacing: 0.135em;
 
 color: #000000;
+}
 
+/*All Menu*/
+h3_all_menu{
+position: absolute;
+width: 209.04px;
+height: 38.95px;
+left: 136px;
+top: 318.95px;
+
+font-family: 'Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 150%;
+
+
+text-align: center;
+letter-spacing: 0.135em;
+
+color: #000000;
+}
+
+/* Banana Nugget */
+h3_banana_nugget{
+position: absolute;
+width: 267px;
+height: 38px;
+left: 102px;
+top: 376px;
+
+font-family: 'Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 150%;
+/* identical to box height, or 38px */
+
+text-align: center;
+letter-spacing: 0.12em;
+
+color: #000000;
 }
