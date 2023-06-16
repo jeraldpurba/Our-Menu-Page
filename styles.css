@@ -11,21 +11,21 @@
 #instagram{
   position: absolute;
   left: 14%;
-  bottom: 3.9%
+  top: 950px;
 }
 
 /*logo whatsapp*/
 #whatsapp{
   position: absolute;
   left: 15%;
-  bottom: 3.9%
+  top: 948px;
 }
 
 /*logo facebook*/
 #facebook{
   position: absolute;
   left: 17.3%;
-  bottom: 4.2%
+  top: 950px
 }
 /*menu*/
 #menu{
@@ -226,7 +226,7 @@ color: #000000;
   width: 258px;
   height: 29px;
   left: 106px;
-  bottom: 85px;
+  top: 881px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -234,7 +234,7 @@ color: #000000;
   font-size: 30px;
   line-height: 34px;
 
-  color: #000000
+  color: #000000;
 }
 
 /* Contact Us */
@@ -243,7 +243,7 @@ color: #000000;
   width: 92px;
   height: 22px;
   left: 106px;
-  bottom: 45px;
+  top: 928px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -260,7 +260,7 @@ color: #000000;
   width: 137px;
   height: 20px;
   left: 106px;
-  bottom: 20px;
+  top: 955px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -277,7 +277,7 @@ color: #000000;
   width: 51px;
   height: 21px;
   left: 167px;
-  bottom: 20px;
+  top: 955px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -294,7 +294,7 @@ color: #000000;
   width: 119px;
   height: 21px;
   left: 235px;
-  bottom: 20px;
+  top: 955px;
 
   font-family: 'Garamond';
   font-style: normal;
@@ -311,7 +311,7 @@ color: #000000;
   width: 137px;
   height: 13px;
   left: 370px;
-  bottom: 28px;
+  top: 955px;
 
   font-family: 'Garamond';
   font-style: normal;
